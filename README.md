@@ -1,61 +1,73 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Paopun20 👋
 
-###
+> Programmer · Game Developer · Always tinkering with new ideas
 
-<p align="left">My name is Pao, and I am a programmer and game developer from Thailand.</p>
+I'm a software developer and game creator from **Thailand** who loves building fun projects, experimenting with code, and learning new tools along the way. This profile highlights my skills, projects, and stats.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About me
 
-###
+- Currently working on: **Roblox projects & Python experiments**
+- Learning: **Python** · **Roblox Luau** · **Haxe**
+- Hobbies: Making random games, coding utilities, and exploring new frameworks
+- Ask me about: Game development, scripting, and tinkering with new ideas
+- Fun fact: I often start projects just for fun
 
-<p align="left">I created some code for fun, developed random games, and made random projects!</p>
+---
 
-###
+## 🛠 Tech stack & tools
 
-<h2 align="left">What I can use for some thing</h2>
-
-###
-
+Languages, frameworks, and tools I use:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="40" alt="haxe logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="40" alt="Haxe logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </div>
 
-###
+---
 
-<h2 align="left">My Stats</h2>
+## 📌 Featured projects
 
-###
+Some things I’ve been building:
+
+- [**PYTHON-M6502**](https://github.com/Paopun20/PYTHON-M6502) — A Python-based 6502 CPU/Emulator
+- [**PaoPaoDataStore**](https://github.com/Paopun20/PaoPaoDataStore) — Lightweight data storage utilities for Roblox
+- *(more projects on my profile!)*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paopun20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paopun20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Paopun20&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paopun20&show_icons=true&count_private=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paopun20&layout=compact&langs_count=6&theme=github_dark" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Paopun20&theme=github_dark&hide_border=false" height="150" />
 </div>
 
-###
+---
 
-<h2 align="left">Cool snake</h2>
+## 🐍 Cool snake
 
-###
+![Snake](https://raw.githubusercontent.com/Paopun20/Paopun20/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/Paopun20/Paopun20/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🤝 Want to collaborate?
+
+- GitHub: [Paopun20](https://github.com/Paopun20)  
+- Open to cool open-source projects (not all to open-source), especially in **games** and **tools**  
+
+⭐️ *If you like my work, consider starring my repos — it helps a lot!* 🚀
