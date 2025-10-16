@@ -2,7 +2,7 @@
 
 > Programmer · Game Developer · Always tinkering with new ideas
 
-I'm a software developer and game creator from **Thailand** who loves building cool projects, experimenting with code, and learning new tools along the way. This profile highlights my skills, projects, and stats.
+I'm a **programmer** and game creator from **Thailand** who loves building cool projects, experimenting with code, and learning new tools along the way. This profile highlights my skills, projects, and stats.
 
 ---
 
