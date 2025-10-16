@@ -61,7 +61,11 @@ Some things I’ve been building:
 
 ## 🐍 Cool snake
 
-![Snake](https://raw.githubusercontent.com/Paopun20/Paopun20/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paopun20/Paopun20/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paopun20/Paopun20/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Paopun20/Paopun20/output/github-snake.svg" />
+</picture>
 
 ---
 
