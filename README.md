@@ -2,7 +2,7 @@
 
 > Programmer · Game Developer · Always tinkering with new ideas
 
-I'm a software developer and game creator from **Thailand** who loves building fun projects, experimenting with code, and learning new tools along the way. This profile highlights my skills, projects, and stats.
+I'm a software developer and game creator from **Thailand** who loves building cool projects, experimenting with code, and learning new tools along the way. This profile highlights my skills, projects, and stats.
 
 ---
 
@@ -12,7 +12,7 @@ I'm a software developer and game creator from **Thailand** who loves building f
 - Learning: **Python** · **Roblox Luau** · **Haxe**
 - Hobbies: Making random games, coding utilities, and exploring new frameworks
 - Ask me about: Game development, scripting, and tinkering with new ideas
-- Fun fact: I often start projects just for fun
+- Fun fact: I often start projects just for fun of learning something new!
 
 ---
 
@@ -43,7 +43,7 @@ Languages, frameworks, and tools I use:
 
 Some things I’ve been building:
 
-- [**PYTHON-M6502**](https://github.com/Paopun20/PYTHON-M6502) — A Python-based 6502 CPU/Emulator
+- [**PyNES.Emulator**](https://github.com/Paopun20/PyNES.Emulator) — My first nes emulator, make in 100% python.
 - [**PaoPaoDataStore**](https://github.com/Paopun20/PaoPaoDataStore) — Lightweight data storage utilities for Roblox
 - *(more projects on my profile!)*
 
@@ -67,7 +67,9 @@ Some things I’ve been building:
 
 ## 🤝 Want to collaborate?
 
-- GitHub: [Paopun20](https://github.com/Paopun20)  
-- Open to cool open-source projects (not all to open-source), especially in **games** and **tools**  
+- GitHub: [Paopun20](https://github.com/Paopun20)
+- Open to cool open-source projects (not all to open-source), especially in **games** and **tools** and **scripting**!
+
+---
 
 ⭐️ *If you like my work, consider starring my repos — it helps a lot!* 🚀
