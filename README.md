@@ -2,11 +2,11 @@
 
 > Programmer · Game Developer · Always tinkering with new ideas
 
-I'm a **programmer** and game creator from **Thailand** who loves building cool projects, experimenting with code, and learning new tools along the way. This profile highlights my skills, projects, and stats.
+I'm a **programmer** and **game creator** from **Thailand** who loves building cool projects, experimenting with code, and learning new tools along the way. This profile highlights my skills, projects, and stats.
 
 ---
 
-## 🚀 About me
+## About me
 
 - Currently working on: **Roblox projects & Python experiments**
 - Learning: **Python** · **Roblox Luau** · **Haxe**
@@ -16,7 +16,7 @@ I'm a **programmer** and game creator from **Thailand** who loves building cool 
 
 ---
 
-## 🛠 Tech stack & tools
+## Tech stack & tools
 
 Languages, frameworks, and tools I use:
 <div align="left">
@@ -39,7 +39,7 @@ Languages, frameworks, and tools I use:
 
 ---
 
-## 📌 Featured projects
+## Featured projects
 
 Some things I’ve been building:
 
@@ -49,7 +49,7 @@ Some things I’ve been building:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paopun20&show_icons=true&count_private=true&theme=github_dark" height="150" />
@@ -59,7 +59,7 @@ Some things I’ve been building:
 
 ---
 
-## 🐍 Cool snake
+## Cool snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paopun20/Paopun20/output/github-snake-dark.svg" />
@@ -69,10 +69,10 @@ Some things I’ve been building:
 
 ---
 
-## 🤝 Want to collaborate?
+## Want to collaborate?
 
 - GitHub: [Paopun20](https://github.com/Paopun20)
-- Open to cool open-source projects (not all to open-source), especially in **games** and **tools** and **scripting**!
+- Open to cool open-source projects (not all to open-source), especially in **games**, **tools** and **scripting**!
 
 ---
 
