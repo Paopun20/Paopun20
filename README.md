@@ -1,4 +1,4 @@
-# Hi, I'm Paopun20 👋
+# Hi, I'm PaoPao (or Paopun20) 👋
 
 > Programmer · Game Developer · Always tinkering with new ideas
 
@@ -39,21 +39,9 @@ Languages, frameworks, and tools I use:
 
 ---
 
-## Featured projects
-
-Some things I’ve been building:
-
-- [**PyNES.Emulator**](https://github.com/Paopun20/PyNES.Emulator) — My first nes emulator, make in 100% python.
-- [**PaoPaoDataStore**](https://github.com/Paopun20/PaoPaoDataStore) — Lightweight data storage utilities for Roblox
-- *(more projects on my profile!)*
-
----
-
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paopun20&show_icons=true&count_private=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paopun20&layout=compact&langs_count=6&theme=github_dark" height="150" />
   <img src="https://streak-stats.demolab.com?user=Paopun20&theme=github_dark&hide_border=false" height="150" />
 </div>
 
@@ -62,18 +50,7 @@ Some things I’ve been building:
 ## Cool snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paopun20/Paopun20/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paopun20/Paopun20/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Paopun20/Paopun20/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://paopun20.github.io/Paopun20/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://paopun20.github.io/Paopun20/github-snake.svg" />
+  <img alt="github-snake" src="https://paopun20.github.io/Paopun20/github-snake.svg" />
 </picture>
-
----
-
-## Want to collaborate?
-
-- GitHub: [Paopun20](https://github.com/Paopun20)
-- Open to cool open-source projects (not all to open-source), especially in **games**, **tools** and **scripting**!
-
----
-
-⭐️ *If you like my work, consider starring my repos — it helps a lot!* 🚀
