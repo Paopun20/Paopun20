@@ -8,8 +8,8 @@ I'm a **programmer** and **game creator** from **Thailand** who loves building c
 
 ## About me
 
-- Currently working on: **Roblox projects & Python experiments**
-- Learning: **Python** · **Roblox Luau** · **Haxe**
+- Currently working on: Any
+- Learning: **Rust** · **Python** · **Roblox Luau** · **Haxe**
 - Hobbies: Making random games, coding utilities, and exploring new frameworks
 - Ask me about: Game development, scripting, and tinkering with new ideas
 - Fun fact: I often start projects just for fun of learning something new!
