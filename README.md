@@ -1,4 +1,4 @@
-# Hi, I'm PaoPao (or Paopun20) 👋
+# Hi, I'm PaoPao 👋
 
 > Programmer · Game Developer · Always tinkering with new ideas
 
